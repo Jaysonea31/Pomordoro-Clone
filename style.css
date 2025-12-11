@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Roboto Mono', monospace;
-  background-color: #050505;
+  background-color: #191919;
   color: #ff00ff;
   min-height: 100vh;
   display: flex;
@@ -22,7 +22,7 @@ body {
 
 button,
 button:active {
-  background-color: #1a1a1a;
+  background-color: #191919;
   border: 2px solid #ff00ff;
   color: #ff00ff;
   width: 42px;
@@ -48,7 +48,7 @@ button:focus {
 /* Clock Body */
 
 .clock-container {
-  background-color: #0a0a0a;
+  background-color: #191919;
   width: 350px;
   border: 2px solid #00ffff;
   border-radius: 10px;
@@ -61,7 +61,7 @@ button:focus {
 #time-left {
   font-size: 70px;
   text-align: center;
-  background-color: #000;
+  background-color: #191919;
   color: #ff00ff;
   padding: 20px;
   border: 1px solid #333;
@@ -83,7 +83,7 @@ button:focus {
   font-size: 25px;
   text-align: center;
   padding-top: 5px;
-  background-color: #000;
+  background-color: #191919;
   color: #00ffff;
   border: 1px solid #00ffff;
   border-radius: 5px;
